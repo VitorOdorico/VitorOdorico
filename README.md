@@ -1,6 +1,6 @@
 ## Oiii eu sou o Vitor Odorico
 
-<div align="center" display: flex; flex-direction: row;>
+<div align="center" display: flex; flex-direction: row; gap: 22px>
   <a href="https://github.com/VitorOdorico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorOdorico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOdorico&layout=compact&langs_count=7&theme=dracula"/>
