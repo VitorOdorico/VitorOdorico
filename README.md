@@ -18,7 +18,7 @@
     <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/1ded871ea27d0bc1fa28070c63fbba9d/e8376a076c8d00a9-ba/s500x750/a075a7c21717e1ca266507e96e016aa727c25ba0.gifv">
 </div>
 
-##
+## Redes Sociais:
 
 <div>
     <a href="https://www.youtube.com/channel/UCTdta9KY9z48aMsbcdXN1tg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
