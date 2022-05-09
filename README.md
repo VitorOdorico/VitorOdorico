@@ -7,7 +7,7 @@
  
  ## Linguagens que uso:
  <div align="centr">
-  <p>Linguagens que uso</p>
+  <h2>Linguagens que uso</h2>
  </div>
  
 <div style="display: inline_block"><br>
