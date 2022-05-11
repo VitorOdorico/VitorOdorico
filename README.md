@@ -21,9 +21,3 @@
   
 </div>
 
-## 
- 
- <div align="center">
-  <h2>Redes Sociais: </h2>
- </div>
-
