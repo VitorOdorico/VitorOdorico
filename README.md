@@ -1,4 +1,6 @@
- ## Oiii eu sou o Vitor Odorico, dev Front-end.
+ ## 
+ <div align="center"><h2>Oiii eu sou o Vitor Odorico, dev Front-end.</h2></div>
+
 <div align="center" >
     <a href="https://github.com/VitorOdorico">
         <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api?username=VitorOdorico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
