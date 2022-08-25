@@ -1,5 +1,5 @@
  ## 
- <div align="center"><h2>Oiii eu sou o Vitor Odorico, dev Front-end.</h2></div>
+ <div align="center"><h2>Hi, what's up? I'm Vitor Odorico</h2></div>
 
 <div align="center" >
     <a href="https://github.com/VitorOdorico">
