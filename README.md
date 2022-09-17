@@ -9,7 +9,7 @@
  
  ## 
  <div align="center">
-  <h2>Linguagens que uso</h2>
+  <h2>languages I use</h2>
  </div>
  
 <div align="center" style="display: inline_block"><br>
