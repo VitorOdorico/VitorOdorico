@@ -20,7 +20,7 @@
 <div style="display: inline_block" align="center"><br>
  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
   
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,python&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,python,java&theme=dark)](https://skills.thijs.gg)
   
 </div>
 
