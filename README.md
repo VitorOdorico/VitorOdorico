@@ -3,6 +3,57 @@
 </div>
 
 
+
+
+```python
+class Attributes(Odorico):
+	@staticmethod
+	def contact() -> tuple:
+	    instagram  = "vitor.odorico"
+	    linkedin = "vitor-emanuel-odorico"
+	    telegram   = "t.me/vitorodorico"
+	    
+	    return instagram,linkedin,telegram
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['Portuguese', 'English']
+		nationalities = self.langs.remove('English').append('Italian')
+		age           = 20
+		
+		return langs, nationalities, age
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs = {
+			'expert':   ['Python','javaScript'],
+			'intermediate': ['C', 'TypeScript'],
+			'learning': ['c++', 'c#', 'java']
+		}
+		specialities  = ['web/app invasion', 'fullstack', 'Pentester']
+		environnement = ['vscode', 'vim', ]
+		
+		return langs, specialities, environnement
+	
+	@staticmethod
+	def projects() -> tuple:
+		hacking   = ['aqua', 'siplhing']
+		discord   = ['general bot', 'self bot']
+    arduino   = ['alcool-em-gel-automatico']
+    desktop   = ['erp-hotel', 'erp-unipar']
+		website   = ['imc-calculator','to-do-list','Reds','DevLinks', 'Freeway', 'Pong', ]
+		
+		return hacking, discord, arduino, desktop, website
+
+```
+
+<div style="display: inline_block" align="center"><br>
+ <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
+  
+  [![My Skills](https://skills.thijs.gg/icons?i=nodejs,python,java,js,ts,c,mysql,mongo#&theme=dark)](https://skills.thijs.gg)
+  
+</div>
+
 ###
 
 <div align="center">
@@ -10,44 +61,17 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorOdorico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOdorico&layout=compact&theme=dark"/>
-  
-  <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2142dr6jypdorh5efa2rbtywi&cover_image=true&theme=natemoo-re&bar_color=0062ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2142dr6jypdorh5efa2rbtywi&redirect=true) -->
 </div>
 
 
 
 
-<div style="display: inline_block" align="center"><br>
- <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=nodejs,python,java,js,ts,c#&theme=dark)](https://skills.thijs.gg)
-  
-</div>
-
-<div style="display: inline_block" align="center"><br>
- <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Databases</h3>
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=mysql,mongo&theme=dark)](https://skills.thijs.gg)
-  
-</div>
-
-<div align=center>
-  <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h4>
-
-[![My Skills](https://skills.thijs.gg/icons?i=c#,azure,aws&theme=dark)](https://skills.thijs.gg)
-
-</div>
-
-<div align=center>
-  <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Tools Used</h4>
-
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,figma,git,github&theme=dark)](https://skills.thijs.gg)
-
-</div>
 
 
-<!-- <div style="align-center">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitorOdorico&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div> -->
+
+
+
+
+
