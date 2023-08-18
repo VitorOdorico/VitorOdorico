@@ -20,21 +20,21 @@
 <div style="display: inline_block" align="center"><br>
  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
   
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,python,java&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=nodejs,python,java,js,ts,c#&theme=dark)](https://skills.thijs.gg)
   
 </div>
 
 <div style="display: inline_block" align="center"><br>
  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Databases</h3>
   
-  [![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=mysql,mongo&theme=dark)](https://skills.thijs.gg)
   
 </div>
 
 <div align=center>
   <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,ts,django,c#,java&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c#,azure,aws&theme=dark)](https://skills.thijs.gg)
 
 </div>
 
