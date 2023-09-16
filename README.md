@@ -17,8 +17,8 @@ class Attributes(Odorico):
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['Portuguese', 'English']
-		nationalities = self.langs.remove('English').append('Italian')
+		langs         = ['Portuguese', 'English', 'Italian']
+		nationalities = self.langs.remove('Portuguese').append('English')
 		age           = 20
 		
 		return langs, nationalities, age
