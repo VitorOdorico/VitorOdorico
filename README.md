@@ -26,9 +26,9 @@ class Attributes(Odorico):
 	@staticmethod
 	def coding() -> tuple:
 		langs = {
-			'expert':   ['Python','javaScript'],
+			'expert':   ['Python','javaScript', 'java'],
 			'intermediate': ['C', 'TypeScript'],
-			'learning': ['c++', 'c#', 'java']
+			'learning': ['c++', 'c#']
 		}
 		specialities  = ['web/app invasion', 'fullstack', 'Pentester']
 		environnement = ['vscode', 'vim', ]
@@ -42,6 +42,7 @@ class Attributes(Odorico):
     arduino   = ['alcool-em-gel-automatico']
     desktop   = ['erp-hotel', 'erp-unipar']
 		website   = ['imc-calculator','to-do-list','Reds','DevLinks', 'Freeway', 'Pong', ]
+web_services = ['daehwa','qualix','gponcore','vendPlace']
 		
 		return hacking, discord, arduino, desktop, website
 
