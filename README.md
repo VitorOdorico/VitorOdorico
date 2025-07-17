@@ -19,7 +19,7 @@ class Attributes(Odorico):
 	def life() -> tuple:
 		langs         = ['Portuguese', 'English', 'Italian']
 		nationalities = self.langs.remove('Portuguese').append('English')
-		age           = 20
+		age           = 22
 		
 		return langs, nationalities, age
 	
