@@ -39,10 +39,10 @@ class Attributes(Odorico):
 	def projects() -> tuple:
 		hacking   = ['aqua', 'siplhing']
 		discord   = ['general bot', 'self bot']
-    arduino   = ['alcool-em-gel-automatico']
-    desktop   = ['erp-hotel', 'erp-unipar']
+    		arduino   = ['alcool-em-gel-automatico']
+    		desktop   = ['erp-hotel', 'erp-unipar']
 		website   = ['imc-calculator','to-do-list','Reds','DevLinks', 'Freeway', 'Pong', ]
-web_services = ['daehwa','qualix','gponcore','vendPlace']
+		web_services = ['daehwa','qualix','gponcore','vendPlace']
 		
 		return hacking, discord, arduino, desktop, website
 
