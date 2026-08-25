@@ -1,51 +1,51 @@
-# Vitor Odorico (@VitorOdorico)
+<!-- Perfil GitHub: VitorOdorico/VitorOdorico -->
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="30" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="30" alt="Spring Boot" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="Oracle" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1E3A5F&amp;height=180&amp;section=header&amp;text=Vitor%20Odorico&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Tech%20Lead%20%7C%20Full%20Stack%20%7C%20Saude%20e%20ERP&amp;descAlignY=55&amp;descSize=16" alt="header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Arquitetura+e+lideranca+tecnica;Java+%7C+Spring+Boot+%7C+React+%7C+Oracle;Sistemas+criticos+na+area+da+saude;ERP%2C+integracoes+e+automacao)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-emanuel-odorico)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatovitorodorico@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-1E3A5F?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1XRvdjEq7grJqtVql2clFx6iYwUFId74P/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorOdorico)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=VitorOdorico&style=flat-square&color=0ea5e9)
+
 </div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400" max-width="400" width="400px" align="right" alt="illustration">
 
 ---
 
-### About me
+### 👋 Sobre mim
 
-Sou o Vitor Odorico, **Tech Lead / Full Stack**, focado em arquitetura, backend e integrações que sustentam produtos reais.
+Sou **Tech Lead Engineer** na **PAP Healthcare**, liderando arquitetura e evolução de produtos críticos na saúde — monitoramento hospitalar, KPIs, alertas e criticidade — com **Java / Spring**, **React** e **Oracle**.
 
-Sou **brasileiro**, falo **português** e **inglês**, e atuo principalmente com sistemas críticos — saúde digital, ERP e automações.
+Também sou **fundador da QUALIX**, onde estruturo produtos digitais como o **Aurenza** (ERP municipal SaaS multi-tenant).
 
-Gosto de projetos em que a tecnologia resolve um problema concreto: performance, confiabilidade e impacto no negócio.
+Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações — sempre unindo **análise de sistemas**, **backend** e **resultado de negócio**.
 
-Currently building:
-
-- **PAP Healthcare** → plataforma de monitoramento hospitalar (KPIs, alertas e criticidade) com Spring, React e Oracle
-- **PEER Reabilita** → solução de protocolos e reabilitação (TEA / ABA) com Laravel e React
-- **QUALIX / Aurenza** → ERP municipal SaaS multi-tenant com Java 21, Spring Boot, React e MySQL
+- 🔭 Em foco: **liderança técnica, arquitetura, APIs e integrações**
+- 🏥 Domínio: **saúde digital, ERP, multi-tenancy e dados**
+- 🌱 Em evolução: **system design e escalabilidade**
+- 💬 Pergunte-me sobre: **Spring Boot, React, Oracle/SQL e automação**
+- 📫 Contato: **contatovitorodorico@gmail.com**
+- 📄 Currículo: **[baixar PDF](https://drive.google.com/file/d/1XRvdjEq7grJqtVql2clFx6iYwUFId74P/view?usp=sharing)**
+- ⚡ Fun fact: **acho que sou engraçado 😄**
 
 ---
 
-### Stats
+### 🚀 Em construção
 
-<div>
-  <a href="https://github.com/VitorOdorico">
-    <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
-</div>
+| Projeto | Papel | Stack | Foco |
+| --- | --- | --- | --- |
+| **PAP Healthcare** | Tech Lead | Spring · React · Oracle | Monitoramento hospitalar, KPIs e alertas |
+| **PEER Reabilita** | Arquitetura | Laravel · React | Protocolos e reabilitação (TEA / ABA) |
+| **QUALIX / Aurenza** | Fundador | Java 21 · Spring · React · MySQL | ERP municipal SaaS multi-tenant |
 
 ---
 
@@ -94,20 +94,21 @@ Currently building:
 
 ---
 
-Isso é só uma introdução rápida.
+### 📊 GitHub Stats
 
-👉 Currículo: [baixar PDF](https://drive.google.com/file/d/1XRvdjEq7grJqtVql2clFx6iYwUFId74P/view?usp=sharing)
-
-### Contact
-
-<p align="left">
-  <a href="mailto:contatovitorodorico@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-emanuel-odorico">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div align="center">
   <a href="https://github.com/VitorOdorico">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5E9&amp;height=100&amp;section=footer" alt="footer"/>
+
+<sub>📍 Paranavaí / PR · Remoto · Aberto a conexões e projetos interessantes</sub>
+
+</div>
