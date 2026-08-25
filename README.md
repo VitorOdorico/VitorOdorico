@@ -23,16 +23,19 @@
 
 ### 👋 Sobre mim
 
-Sou **Tech Lead Engineer** na **PAP Healthcare**, liderando arquitetura e evolução de produtos críticos na saúde — monitoramento hospitalar, KPIs, alertas e criticidade — com **Java / Spring**, **React** e **Oracle**.
+**5 anos** em desenvolvimento de software e **3 anos** em cybersecurity.
+
+Sou **Tech Lead Engineer** na **PAP Healthcare**, liderando arquitetura e evolução de produtos críticos na saúde (monitoramento hospitalar, KPIs, alertas e criticidade) com **Java / Spring**, **React** e **Oracle**.
 
 Também sou **fundador da QUALIX**, onde estruturo produtos digitais como o **Aurenza** (ERP municipal SaaS multi-tenant).
 
-Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações — sempre unindo **análise de sistemas**, **backend** e **resultado de negócio**.
+Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações, unindo **análise de sistemas**, **backend** e **resultado de negócio**.
 
+- 💼 Experiência: **5 anos em desenvolvimento** · **3 anos em cybersecurity**
 - 🔭 Em foco: **liderança técnica, arquitetura, APIs e integrações**
 - 🏥 Domínio: **saúde digital, ERP, multi-tenancy e dados**
 - 🌱 Em evolução: **system design e escalabilidade**
-- 💬 Pergunte-me sobre: **Spring Boot, React, Oracle/SQL e automação**
+- 💬 Pergunte-me sobre: **Spring Boot, React, Oracle/SQL, automação e segurança**
 - 📫 Contato: **contatovitorodorico@gmail.com**
 - 📄 Currículo: **[baixar PDF](https://drive.google.com/file/d/1XRvdjEq7grJqtVql2clFx6iYwUFId74P/view?usp=sharing)**
 - ⚡ Fun fact: **acho que sou engraçado 😄**
@@ -109,6 +112,6 @@ Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações �
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5E9&amp;height=100&amp;section=footer" alt="footer"/>
 
-<sub>📍 Paranavaí / PR · Remoto · Aberto a conexões e projetos interessantes</sub>
+<sub>📍 Paranavaí / PR | Remoto | Aberto a conexões e projetos interessantes</sub>
 
 </div>
