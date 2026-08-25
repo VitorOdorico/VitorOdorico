@@ -27,15 +27,15 @@
 
 Sou **Tech Lead Engineer** na **PAP Healthcare**, liderando arquitetura e evolução de produtos críticos na saúde (monitoramento hospitalar, KPIs, alertas e criticidade) com **Java / Spring**, **React** e **Oracle**.
 
-Também sou **fundador da QUALIX**, onde estruturo produtos digitais como o **Aurenza** (ERP municipal SaaS multi-tenant).
+Também sou **fundador da QUALIX**, onde estruturo produtos digitais: **Aurenza** (ERP municipal SaaS), **Sales** (CRM + gestor de tráfego omnichannel com foco em vendas) e **Manutix** (gestão de ordens de serviço para indústrias).
 
-Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações, unindo **análise de sistemas**, **backend** e **resultado de negócio**.
+Atuei como **desenvolvedor fullstack** no **agronegócio**, em sistemas corporativos com foco em **exportação** (Angular + Oracle / SQL e PL/SQL), além de integrações, ERP/CRM, omnichannel e automações.
 
-- 💼 Experiência: **5 anos em desenvolvimento** · **3 anos em cybersecurity**
+- 💼 Experiência: **5 anos em desenvolvimento** | **3 anos em cybersecurity**
 - 🔭 Em foco: **liderança técnica, arquitetura, APIs e integrações**
-- 🏥 Domínio: **saúde digital, ERP, multi-tenancy e dados**
+- 🏥 Domínio: **saúde digital, agronegócio/exportação, ERP, CRM e indústria**
 - 🌱 Em evolução: **system design e escalabilidade**
-- 💬 Pergunte-me sobre: **Spring Boot, React, Oracle/SQL, automação e segurança**
+- 💬 Pergunte-me sobre: **Spring Boot, React, Oracle/SQL, agro, automação e segurança**
 - 📫 Contato: **contatovitorodorico@gmail.com**
 - 📄 Currículo: **[baixar PDF](https://drive.google.com/file/d/1XRvdjEq7grJqtVql2clFx6iYwUFId74P/view?usp=sharing)**
 - ⚡ Fun fact: **acho que sou engraçado 😄**
@@ -46,9 +46,12 @@ Atuei em integrações corporativas, ERP/CRM, Angular + Oracle e automações, u
 
 | Projeto | Papel | Stack | Foco |
 | --- | --- | --- | --- |
-| **PAP Healthcare** | Tech Lead | Spring · React · Oracle | Monitoramento hospitalar, KPIs e alertas |
-| **PEER Reabilita** | Arquitetura | Laravel · React | Protocolos e reabilitação (TEA / ABA) |
-| **QUALIX / Aurenza** | Fundador | Java 21 · Spring · React · MySQL | ERP municipal SaaS multi-tenant |
+| **PAP Healthcare** | Tech Lead | Spring, React, Oracle | Monitoramento hospitalar, KPIs e alertas |
+| **PEER Reabilita** | Arquitetura | Laravel, React | Protocolos e reabilitação (TEA / ABA) |
+| **QUALIX / Aurenza** | Fundador | Java 21, Spring, React, MySQL | ERP municipal SaaS multi-tenant |
+| **QUALIX / Sales** | Fundador | Java, Spring, React, MySQL | CRM, gestor de tráfego e omnichannel (vendas) |
+| **QUALIX / Manutix** | Fundador | Java, Spring, React, MySQL | Gestão de O.S. para indústrias |
+| **Agronegócio / exportação** | Full Stack | Angular, Oracle, SQL/PLSQL | Sistemas do agro com foco em exportação |
 
 ---
 
